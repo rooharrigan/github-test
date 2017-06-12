@@ -1,0 +1,1 @@
+animals = ['rabbit', 'fox', 'whale']
