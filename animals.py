@@ -1,1 +1,1 @@
-animals = ['rabbit', 'fox', 'whale']
+animals = ['rabbit', 'fox', 'whale', 'frog']
